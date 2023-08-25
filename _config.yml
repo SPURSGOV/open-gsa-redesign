@@ -1,9 +1,9 @@
 # Site settings
-title: GSA Open Technology
-description: Open source code, data and APIs from GSA.
+title: US Department of Special Projects and Unified Response Services
+description: Providing support for other government agencies, the American economy, America's modus operandi and to the American people. Because when all else fails, We Don't.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://open.gsa.gov" # the base hostname & protocol for your site
-logo: /assets/img/site-logo.png
+url: "https://spurs.gov" # the base hostname & protocol for your site
+logo: /assets/img/spurs-logo.png
 feature_image: /assets/img/feature-background.jpg
 
 sass:
@@ -37,8 +37,8 @@ analytics:
   google:
     code: 'UA-48605964-32' # Change this to your GSA analytics code
   dap:
-    agency: GSA    # Change this to your agency
-    subagency: Digital Service # Change this to your agency
+    agency: US Department of Special Projects and Unified Response Services    # Change this to your agency
+    subagency: US DEPARTMENT OF SPURS # Change this to your agency
 
 
 forms:
@@ -64,8 +64,8 @@ forms:
 
 
 footer:
-  image: /assets/img/gsa-logo-dark.jpg
-  image-alt: GSA
+  image: /assets/img/spurs-logo-dark.jpg
+  image-alt: US-SPURS
 
 # Build settings
 markdown: kramdown
